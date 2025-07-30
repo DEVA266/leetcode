@@ -1,2 +1,2 @@
-# leetocode
+# leetcode
 Progress of Leetcode
